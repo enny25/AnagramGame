@@ -44,6 +44,16 @@ final class StaticWordLibrary extends WordLibrary {
         "map",
         "daniel",
         "earth",
+        "mand",
+        "kone",
+        "farvel",
+        "tak",
+        "jeg",
+        "lukket",
+        "posthus",
+        "klokken",
+        "udgang",
+        "navn",
         };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
@@ -53,8 +63,17 @@ final class StaticWordLibrary extends WordLibrary {
         "orwld",
         "pam",
         "ielnad",
-        "htrea"
-        
+        "htrea",
+        "dnma",
+        "ekno",
+        "levfar",
+        "akt",
+        "ejg",
+        "ketkul",
+        "suhostp",
+        "kenkolk",
+        "gnagdu",
+        "nnva",
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
