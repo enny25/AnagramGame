@@ -42,6 +42,8 @@ final class StaticWordLibrary extends WordLibrary {
         "java",
         "world",
         "map",
+        "daniel",
+        "earth",
         };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
@@ -50,6 +52,8 @@ final class StaticWordLibrary extends WordLibrary {
         "vjaa",
         "orwld",
         "pam",
+        "ielnad",
+        "htrea"
         
     };
     
